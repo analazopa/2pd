@@ -10,7 +10,7 @@
 
 ```bash
 mix deps.get
-mix compile
+mix compile```
 # Запуск сервера для тестування АРІ
 mix run server.ex
 
